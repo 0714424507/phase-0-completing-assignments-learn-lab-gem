@@ -29,7 +29,7 @@ what to do in future assignments.
 
 ### A Quick Note on Organizing Work on Your Machine
 
-Through this course, you will be downloading many assignments, so it is
+Through this course, you will be downloading many assignments, so it is.
 important to take a moment now to think about how you'll organize this work on
 your computer. You are welcome to do what you like, but we recommend setting up
 a directory where you can keep all of your work for this course.
